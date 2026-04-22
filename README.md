@@ -1,2 +1,2 @@
 # Sistema de Cadastro de Cursos
-Projeto simples para cadastro de cursos.
+Projeto simples para desenvolvimento de jogos digitais voltado a front e back end de cursos. 
