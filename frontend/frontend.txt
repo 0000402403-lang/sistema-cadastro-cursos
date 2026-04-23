@@ -1,0 +1,13 @@
+===== SISTEMA DE CADASTRO DE CURSOS =====
+
+Lista de Cursos:
+
+1. Nome: Python
+   Carga Horária: 45h
+   Descrição: Curso de programação
+
+2. Nome: Git
+   Carga Horária: 20h
+   Descrição: Controle de versão
+
+=========================================
