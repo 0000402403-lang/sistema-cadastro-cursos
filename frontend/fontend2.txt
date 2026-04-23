@@ -2,12 +2,12 @@
 
 Lista de Cursos:
 
-1. Nome: Python
-   Carga Horária: 45h
+1. Nome: Python2
+   Carga Horária: 56h
    Descrição: Curso de programação
 
-2. Nome: Git
-   Carga Horária: 20h
+2. Nome: Git2
+   Carga Horária: 40h
    Descrição: Controle de versão
 
 =========================================
